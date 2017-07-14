@@ -4,9 +4,14 @@
 This is a tiny little repo to host a homebrew tap for [jwt-cli](https://github.com/mike-engel/jwt-cli).
 
 ```sh
+# Tap the repo, if you haven't already
 brew tap mike-engel/jwt-cli
 
+# Install the binary to your PATH (like any other brew formula
 brew install jwt-cli
+
+# Finally, ensure it works by running the help command
+jwt --help
 ```
 
 # Contibuting
