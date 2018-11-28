@@ -1,3 +1,11 @@
+# 2018-11-28
+
+Update for jwt-cli 2.2.1
+
+# 2018-11-18
+
+Update for jwt-cli 2.2.0
+
 # 2018-09-24
 
 Update for jwt-cli 2.1.0
