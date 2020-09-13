@@ -3,7 +3,7 @@ class JwtCli < Formula
   homepage "https://github.com/mike-engel/jwt-cli"
   url "https://github.com/mike-engel/jwt-cli/releases/download/3.2.0/jwt-cli-3.2.0-macOS.tar.gz"
   version "3.2.0"
-  sha256 "8e0138f4676cb399846e376dc1de42b3713cf4438865469a0adfd55acd56d45b"
+  sha256 "77642cae7ba08e026e9c0aae9fb6ecb9cf4cd9ad61d4caa6c00ed79bb332d5fe"
   head "https://github.com/mike-engel/jwt-cli.git"
 
   def install
