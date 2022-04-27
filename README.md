@@ -14,9 +14,9 @@ brew install jwt-cli
 jwt --help
 ```
 
-# Contibuting
+# Contributing
 
-I welcome all contributions! If you've found a bug, please create a GitHub issue. If you'd like to contibue code, please create a new pull request. All I ask is that you follow the code of conduct listed below.
+I welcome all contributions! If you've found a bug, please create a GitHub issue. If you'd like to contribute code, please create a new pull request. All I ask is that you follow the code of conduct listed below.
 
 # [Code of Conduct](code_of_conduct.md)
 
