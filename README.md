@@ -20,4 +20,12 @@ I welcome all contributions! If you've found a bug, please create a GitHub issue
 
 # [Code of Conduct](code_of_conduct.md)
 
+## Calculating the SHA256 hash
+
+Because I often forget this, here's how to do it if you have OpenSSL installed locally
+
+```sh
+openssl dgst -sha256 jwt-macOS.tar.gz
+```
+
 # [License](LICENSE.md)
