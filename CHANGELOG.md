@@ -1,3 +1,9 @@
+# 2024-05-27
+
+Update for jwt-cli 6.1.0
+
+- Add support for linux installations with brew #2
+
 # 2023-06-22
 
 Update for jwt-cli 6.0.0
