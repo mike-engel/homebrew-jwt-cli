@@ -3,14 +3,8 @@ class JwtCli < Formula
   homepage "https://github.com/mike-engel/jwt-cli"
   license "MIT"
   version "6.1.0"
-  revision 1
 
   head "https://github.com/mike-engel/jwt-cli.git"
-
-  livecheck do
-    url :head
-    strategy :github_latest
-  end
 
   on_macos do
     url "https://github.com/mike-engel/jwt-cli/releases/download/#{version}/jwt-macOS.tar.gz"
