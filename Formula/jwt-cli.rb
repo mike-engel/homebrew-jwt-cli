@@ -2,18 +2,18 @@ class JwtCli < Formula
   desc "Super fast CLI tool to decode and encode JWTs built in Rust"
   homepage "https://github.com/mike-engel/jwt-cli"
   license "MIT"
-  version "6.1.0"
+  version "6.1.1"
 
   head "https://github.com/mike-engel/jwt-cli.git"
 
   on_macos do
     url "https://github.com/mike-engel/jwt-cli/releases/download/#{version}/jwt-macOS.tar.gz"
-    sha256 "7937cabf6594d8496519b928c8b1324998efd5b1f4a54951106f8ca4a910eb18"
+    sha256 "e86014e4c6c7dd215e41584cfb362cdedb1e03fd9f557eaf905571b86afaa9cc"
   end
 
   on_linux do
     url "https://github.com/mike-engel/jwt-cli/releases/download/#{version}/jwt-linux.tar.gz"
-    sha256 "0ba4c2f9b454cf378ccd5372a86d2ed2f9426451aa11977cf65d18443eb42e44"
+    sha256 "045c6e6a9f2786ac7e6c9debb4c3d35df3da33e39504b2be1505a4523c483d70"
   end
 
   def install
